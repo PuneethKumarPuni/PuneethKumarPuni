@@ -37,6 +37,6 @@ I am a passionate and motivated developer with a strong foundation in Java, C, S
 - 🌐 **Portfolio:** [www.puneethkumardev.me](https://www.puneethkumardev.me)  
 - 🏗 **GitHub:** [PuneethKumarPuni](https://github.com/PuneethKumarPuni)  
 - 📩 **Email:** [puneeth.09.2002@gmail.com](mailto:puneeth.09.2002@gmail.com)  
-- 📞 **Phone:** +91 9986353602  
+- 📞 **Phone:** +91 9353950078
 
 💡 Open to collaboration and learning opportunities in **Full Stack Development, Software Engineering, and AI/ML.** Let's innovate together! 🚀
