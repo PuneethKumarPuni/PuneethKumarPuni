@@ -6,7 +6,7 @@ I am a passionate and motivated developer with a strong foundation in Java, C, S
 
 ## 🔥 Skills & Technologies
 
-- **Programming Languages:** Java, C  
+- **Programming Languages:** Java, C, Python
 - **Frameworks & Libraries:** Spring Boot, Hibernate  
 - **Databases:** MySQL  
 - **Web Technologies:** HTML, CSS, Bootstrap  
